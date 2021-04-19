@@ -14,5 +14,5 @@ public class Ej7 {
         }
         System.out.println("El valor total es = " +valorProductos);
     }
-//Vuelvo a tener errores con los float
+//No entiendo porque cuando inserto un float salta error
 }
